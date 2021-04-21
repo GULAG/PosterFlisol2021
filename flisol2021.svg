@@ -43,13 +43,13 @@
      inkscape:window-height="708"
      id="namedview1123"
      showgrid="false"
-     inkscape:zoom="0.59377855"
+     inkscape:zoom="0.20993242"
      inkscape:cx="795.53965"
-     inkscape:cy="1558.5989"
+     inkscape:cy="1272.7926"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg1121" />
   <defs
      id="defs592">
     <g
@@ -1557,9 +1557,13 @@
        xlink:href="#surface5" />
     <use
        xlink:href="#surface8"
-       transform="matrix(1,0,0,1,589,1566)"
+       transform="translate(589,1566)"
        mask="url(#mask1)"
-       id="use606" />
+       id="use606"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <use
        height="100%"
        width="100%"
@@ -1602,9 +1606,13 @@
        xlink:href="#surface20" />
     <use
        xlink:href="#surface23"
-       transform="matrix(1,0,0,1,0,1438)"
+       transform="translate(0,1438)"
        mask="url(#mask6)"
-       id="use624" />
+       id="use624"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <use
        height="100%"
        width="100%"
@@ -1667,9 +1675,13 @@
        xlink:href="#surface41" />
     <use
        xlink:href="#surface44"
-       transform="matrix(1,0,0,1,0,98)"
+       transform="translate(0,98)"
        mask="url(#mask13)"
-       id="use650" />
+       id="use650"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <use
        height="100%"
        width="100%"
@@ -1710,256 +1722,312 @@
        mask="url(#mask17)"
        xlink:href="#surface56" />
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g670">
       <use
          xlink:href="#glyph0-1"
-         x="611.69975"
-         y="272.550097"
-         id="use668" />
+         x="611.69977"
+         y="272.55011"
+         id="use668"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g698">
       <use
          xlink:href="#glyph1-6"
-         x="602.51716"
-         y="330.287923"
-         id="use696" />
+         x="602.51715"
+         y="330.28793"
+         id="use696"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g710">
       <use
          xlink:href="#glyph1-6"
-         x="773.362761"
-         y="330.287923"
-         id="use708" />
+         x="773.36273"
+         y="330.28793"
+         id="use708"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(100%,100%,100%);fill-opacity:1;"
+       style="fill:#ffffff;fill-opacity:1"
        id="g730">
       <use
          xlink:href="#glyph2-0"
-         x="610.676773"
-         y="1020.997953"
-         id="use728" />
+         x="610.67676"
+         y="1020.9979"
+         id="use728"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g734">
       <use
          xlink:href="#glyph3-0"
-         x="39.688409"
-         y="1241.569114"
-         id="use732" />
+         x="39.688408"
+         y="1241.5691"
+         id="use732"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g738">
       <use
          xlink:href="#glyph3-0"
-         x="61.441881"
-         y="1241.569114"
-         id="use736" />
+         x="61.441879"
+         y="1241.5691"
+         id="use736"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g742">
       <use
          xlink:href="#glyph3-0"
-         x="83.195352"
-         y="1241.569114"
-         id="use740" />
+         x="83.195351"
+         y="1241.5691"
+         id="use740"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g746">
       <use
          xlink:href="#glyph3-0"
-         x="104.948825"
-         y="1241.569114"
-         id="use744" />
+         x="104.94882"
+         y="1241.5691"
+         id="use744"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g750">
       <use
          xlink:href="#glyph3-0"
-         x="126.702295"
-         y="1241.569114"
-         id="use748" />
+         x="126.70229"
+         y="1241.5691"
+         id="use748"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g754">
       <use
          xlink:href="#glyph3-0"
-         x="148.455771"
-         y="1241.569114"
-         id="use752" />
+         x="148.45576"
+         y="1241.5691"
+         id="use752"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(96.859741%,52.549744%,12.548828%);fill-opacity:1;"
+       style="fill:#f5851e;fill-opacity:1"
        id="g758">
       <use
          xlink:href="#glyph3-0"
-         x="170.209241"
-         y="1241.569114"
-         id="use756" />
+         x="170.20924"
+         y="1241.5691"
+         id="use756"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g770">
       <use
          xlink:href="#glyph4-0"
-         x="337.202781"
-         y="739.354483"
-         id="use768" />
+         x="337.20279"
+         y="739.35449"
+         id="use768"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g774">
       <use
          xlink:href="#glyph4-0"
-         x="355.072509"
-         y="739.354483"
-         id="use772" />
+         x="355.07251"
+         y="739.35449"
+         id="use772"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g778">
       <use
          xlink:href="#glyph4-0"
-         x="372.942237"
-         y="739.354483"
-         id="use776" />
+         x="372.94223"
+         y="739.35449"
+         id="use776"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g782">
       <use
          xlink:href="#glyph4-0"
-         x="390.811964"
-         y="739.354483"
-         id="use780" />
+         x="390.81195"
+         y="739.35449"
+         id="use780"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g810">
       <use
          xlink:href="#glyph4-0"
-         x="609.210723"
-         y="739.354483"
-         id="use808" />
+         x="609.21069"
+         y="739.35449"
+         id="use808"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g830">
       <use
          xlink:href="#glyph4-0"
-         x="649.680756"
-         y="1429.083091"
-         id="use828" />
+         x="649.68079"
+         y="1429.0831"
+         id="use828"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g834">
       <use
          xlink:href="#glyph4-0"
-         x="667.550484"
-         y="1429.083091"
-         id="use832" />
+         x="667.55048"
+         y="1429.0831"
+         id="use832"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g838">
       <use
          xlink:href="#glyph4-0"
-         x="685.420212"
-         y="1429.083091"
-         id="use836" />
+         x="685.42023"
+         y="1429.0831"
+         id="use836"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g842">
       <use
          xlink:href="#glyph4-0"
-         x="703.289939"
-         y="1429.083091"
-         id="use840" />
+         x="703.28992"
+         y="1429.0831"
+         id="use840"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(99.609375%,52.159119%,0%);fill-opacity:1;"
+       style="fill:#fd8500;fill-opacity:1"
        id="g862">
       <use
          xlink:href="#glyph4-0"
-         x="836.695779"
-         y="1429.083091"
-         id="use860" />
+         x="836.6958"
+         y="1429.0831"
+         id="use860"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g890">
       <use
          xlink:href="#glyph4-0"
-         x="60.015977"
-         y="920.091486"
-         id="use888" />
+         x="60.015976"
+         y="920.09149"
+         id="use888"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g910">
       <use
          xlink:href="#glyph4-0"
-         x="203.866594"
-         y="920.091486"
-         id="use908" />
+         x="203.86659"
+         y="920.09149"
+         id="use908"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g942">
       <use
          xlink:href="#glyph4-0"
-         x="449.85463"
-         y="920.091486"
-         id="use940" />
+         x="449.85464"
+         y="920.09149"
+         id="use940"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g994">
       <use
          xlink:href="#glyph4-0"
-         x="421.626197"
-         y="998.038908"
-         id="use992" />
+         x="421.62619"
+         y="998.03888"
+         id="use992"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g1042">
       <use
          xlink:href="#glyph4-0"
-         x="332.641088"
-         y="1153.933752"
-         id="use1040" />
+         x="332.64108"
+         y="1153.9337"
+         id="use1040"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g1058">
       <use
          xlink:href="#glyph4-0"
          x="238.04567"
-         y="1231.881174"
-         id="use1056" />
+         y="1231.8812"
+         id="use1056"
+         width="100%"
+         height="100%" />
     </g>
     <g
-       style="fill:rgb(92.549133%,46.269226%,6.269836%);fill-opacity:1;"
+       style="fill:#eb750f;fill-opacity:1"
        id="g1086">
       <use
          xlink:href="#glyph4-0"
-         x="439.359334"
-         y="1231.881174"
-         id="use1084" />
+         x="439.35934"
+         y="1231.8812"
+         id="use1084"
+         width="100%"
+         height="100%" />
     </g>
     <flowRoot
        xml:space="preserve"
@@ -1991,18 +2059,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2036"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;"
        transform="matrix(0.74999999,0,0,0.74999999,82.004275,87.78103)"><flowRegion
          id="flowRegion2038"
-         style="text-align:center;text-anchor:middle"><rect
+         style="text-align:center;text-anchor:middle;fill:#999999;"><rect
            id="rect2040"
            width="1584.3457"
            height="83.824417"
            x="-107.01801"
            y="1721.8009"
-           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle;fill:#999999;" /></flowRegion><flowPara
          id="flowPara2042"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:64px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#eb750f;fill-opacity:1">Más informes y horarios en gulag.org.mx</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:64px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:center;text-anchor:middle;fill:#999999;fill-opacity:1;">Más informes y horarios en gulag.org.mx</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2036-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2085,7 +2153,7 @@
        xml:space="preserve"
        id="flowRoot2036-2-1-0-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.74999999,0,0,0.74999999,114.7244,-97.470238)"><flowRegion
+       transform="matrix(0.74999999,0,0,0.74999999,114.7244,-133.47024)"><flowRegion
          id="flowRegion2038-9-8-2-6"
          style="text-align:start;text-anchor:start"><rect
            id="rect2040-1-7-3-7"
@@ -2127,7 +2195,7 @@
        xml:space="preserve"
        id="flowRoot2036-2-6"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.74999999,0,0,0.74999999,111.05782,-372.08715)"><flowRegion
+       transform="matrix(0.74999999,0,0,0.74999999,111.05782,-376.58715)"><flowRegion
          id="flowRegion2038-9-06"
          style="text-align:start;text-anchor:start"><rect
            id="rect2040-1-2"
@@ -2141,7 +2209,7 @@
        xml:space="preserve"
        id="flowRoot2036-2-1"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.74999999,0,0,0.74999999,114.67002,-272.48766)"><flowRegion
+       transform="matrix(0.74999999,0,0,0.74999999,114.67002,-294.98766)"><flowRegion
          id="flowRegion2038-9-8"
          style="text-align:start;text-anchor:start"><rect
            id="rect2040-1-7"
@@ -2155,7 +2223,7 @@
        xml:space="preserve"
        id="flowRoot2036-2-1-0"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.74999999,0,0,0.74999999,119.31709,-184.58822)"><flowRegion
+       transform="matrix(0.74999999,0,0,0.74999999,119.31709,-214.58822)"><flowRegion
          id="flowRegion2038-9-8-2"
          style="text-align:start;text-anchor:start"><rect
            id="rect2040-1-7-3"
@@ -2209,7 +2277,7 @@
        xml:space="preserve"
        id="flowRoot2036-2-1-0-3-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.74999999,0,0,0.74999999,110.07018,-14.208578)"><flowRegion
+       transform="matrix(0.74999999,0,0,0.74999999,110.07018,-51.708578)"><flowRegion
          id="flowRegion2038-9-8-2-6-5"
          style="text-align:start;text-anchor:start"><rect
            id="rect2040-1-7-3-7-6"
@@ -2219,7 +2287,21 @@
            y="1721.8009"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara2042-2-9-7-5-2"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:48px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:start;text-anchor:start;fill:#eb750f;fill-opacity:1">Introducción de Ecosistema Docker</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:48px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:start;text-anchor:start;fill:#eb750f;fill-opacity:1">Introducción de Ecosistema Docker</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2036-2-1-0-3-3-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.74999999,0,0,0.74999999,110.81693,25.991974)"><flowRegion
+         id="flowRegion2038-9-8-2-6-5-6"
+         style="text-align:start;text-anchor:start"><rect
+           id="rect2040-1-7-3-7-6-7"
+           width="980.57996"
+           height="61.806107"
+           x="-107.01801"
+           y="1721.8009"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara2042-2-9-7-5-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:48px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';text-align:start;text-anchor:start;fill:#eb750f;fill-opacity:1">SotolitOS: Haciendo tu remix de CentOS</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
